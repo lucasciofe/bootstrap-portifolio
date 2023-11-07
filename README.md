@@ -1,9 +1,7 @@
 # bootstrap-portifolio
 
 ## Description
-This First Challenge was created for boot camp students who where going through the EDX front end development
-course. It contains how to use the semantics elements in HTML for accessibility.
-
+This Third Challenge of Edx boot camp, it covers how to use Bootstrap library in the projects.
 ## Installation
 N/A
 
